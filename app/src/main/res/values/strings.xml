@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz version2</string>
+    <string name="label_start">Start</string>
+    <string name="quiz_image">Quiz image</string>
+    <string name="bad">Bad</string>
+    <string name="good">Good</string>
+    <string name="timeup">Timeout</string>
+    <string name="point_text">Point(s)</string>
+    <string name="time_text">total time</string>
+    <string name="time_format" translatable="false">%1$01d:%2$02d.%3$02d</string>
+    <string name="point_format" translatable="false">%1$d</string>
+    <string name="label_back">Back to title</string>
+</resources>
